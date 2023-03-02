@@ -1,4 +1,4 @@
-# AmphitryonJAVA
+# amphitryon-java
 
 ### Projet réalisé lors de mon BTS SIO (en équipe)
 
